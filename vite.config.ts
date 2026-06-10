@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/google-sheets02/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
