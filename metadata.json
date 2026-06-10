@@ -1,0 +1,6 @@
+{
+  "name": "問卷數據與趨勢分析儀表板",
+  "description": "串接問卷調查表後台數據，建立即時數據視覺化儀表板，並使用 Gemini API 自動產生商業洞察與趨勢分析摘要。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
